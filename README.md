@@ -1,4 +1,4 @@
-# NIST Cybersecurity Framework (CSF) Project
+# NIST CSF
 
 <h1>DDos Attack on a Multimedia Company</h1>
 
