@@ -20,7 +20,5 @@ Below is an incident report analysis that utilizes the knowledge of least privil
 
 
 
-<h3>Conclusion<h3/>
-  
-
+<h2>Conclusion</h2>
 Creating a policy that sets expiration dates for access links might have avoided the leak. Requiring managers to regularly audit who can access their files is another way that information could be kept private.
